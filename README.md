@@ -2,7 +2,7 @@
 
 Personal portfolio of Boaz Onuong'a, full-stack developer and graphic designer in Nairobi, Kenya.
 
-A single static page (`index.html` + `boaz.jpg`) with no build step. It has light, dark and auto modes and four accent colors.
+A single static page (`index.html`) with no build step. Yellow, black and white design with light, dark and auto modes.
 
 ## Run locally
 
